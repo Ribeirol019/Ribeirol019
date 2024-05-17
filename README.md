@@ -2,7 +2,7 @@
 
 Meu nome é Luigi Ribeiro
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Luigi Ribeiro
   00001090273046sp@al.educacao.sp.gov.br
   
   @Ribeirol019_
+
+> Escrito por Luigi Ribeiro
